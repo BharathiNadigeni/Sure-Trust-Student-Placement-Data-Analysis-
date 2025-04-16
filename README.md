@@ -1,6 +1,6 @@
 **Student Placement Data Analysis Dashboard**
 
-This project focuses on analyzing student placement data for SURE Trust using Power BI to provide insights into placement trends and academic metrics. The data processing, modeling, and visualization [...]
+This project focuses on analyzing student placement data for SURE Trust using Power BI to provide insights into placement trends and academic metrics. The data processing, modeling, and visualization help in identifying actionable insights.
 
 **Domain of the Project:** Data Science, Data Analytics, Power BI
 
@@ -28,17 +28,17 @@ Nadigeni Bharathi
 
 **Executive Summary**
 
-The Student Placement Data Analysis Dashboard project aims to analyze placement data for SURE Trust students using Power BI to uncover trends and identify key academic factors affecting placement succ[...]
+The Student Placement Data Analysis Dashboard project aims to analyze placement data for SURE Trust students using Power BI to uncover trends and identify key academic factors affecting placement outcomes.
 
 **Introduction**
 
 **Data Science:**
-Data science involves extracting meaningful insights from large datasets using various techniques, including data cleaning, exploratory analysis, and predictive modeling. The power of data science lie[...]
+Data science involves extracting meaningful insights from large datasets using various techniques, including data cleaning, exploratory analysis, and predictive modeling. The power of data science is leveraged in this project to provide actionable insights.
 
 In this project, Power BI is used to visualize trends and analyze student placement outcomes based on various factors like academic performance, stream, and college.
 
 **Problem Statement:**
-The primary challenge is to gain a deeper understanding of placement trends based on different academic and demographic factors, thus aiding SURE Trust in improving placement strategies and supporting[...]
+The primary challenge is to gain a deeper understanding of placement trends based on different academic and demographic factors, thus aiding SURE Trust in improving placement strategies and supporting students effectively.
 
 **Project Objectives**
 
@@ -70,16 +70,9 @@ Data was gathered from internal SURE Trust databases and processed for analysis 
 
 **Social/Industry Relevance of the Project**
 
-This project provides valuable insights into student placement trends, helping educational institutions improve their strategies to boost placement rates. By analyzing placement data, the project assi[...]
+This project provides valuable insights into student placement trends, helping educational institutions improve their strategies to boost placement rates. By analyzing placement data, the project contributes to both social and industry growth.
 
 **Learning & Reflection**
 
-This project helped refine my skills in Power BI for data analysis and visualization. The hands-on experience with DAX and dashboard design provided an understanding of how to present data-driven insi[...]
-
-**Future Scope & Conclusion**
-
-The Student Placement Data Analysis Dashboard can be expanded to include predictive models for future placement outcomes, enabling proactive measures for improving student performance and placement su[...]
-
-**GitHub Repository:**
-
-https://github.com/BharathiNadigeni/Sure-Trust-Student-Placement-Data-Analysis-
+This project helped refine my skills in Power BI for data analysis and visualization. The hands-on experience with DAX and dashboard design provided an understanding of how to present data-driven insights effectively
+
